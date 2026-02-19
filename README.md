@@ -23,6 +23,6 @@ This project allows users to manage daily tasks with a clean and responsive UI.
 
 📸 Live Demo
 
-👉 https://YOUR-USERNAME.github.io/todo-app
+ https://hemantsharma7707.github.io/todo-app/
 
-(Replace YOUR-USERNAME with your GitHub username after deployment.)
+
